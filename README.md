@@ -12,8 +12,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados  apaixonado por dado
 
 - **🔭 Atualmente:** Trabalhando como Analista de Dados FP&A Júnior na Nutrien
 - **🌱 Estou aprendendo:** Python, SQL e novas técnicas de análise de dados
-- **👯‍♂️ Estou procurando:** Colaborações em projetos de dados e oportunidades de aprendizado
-- **💬 Pergunte-me sobre:** Análise de dados, Excel, Python, SQL e visualização de dados
 - **📫 Como me encontrar:** [Seu e-mail ou link para LinkedIn]
 
 ## 🛠️ Tecnologias e Ferramentas
