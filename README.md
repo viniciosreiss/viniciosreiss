@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinicios</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analistycs from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
-Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados  apaixonado por dados e tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições no mundo da análise de dados e visualização.
+Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados Brasilero de 22 anos apaixonado por dados e tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições no mundo da análise de dados e visualização.
 
 ## 🚀 Sobre Mim
 
