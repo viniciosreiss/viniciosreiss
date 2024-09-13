@@ -12,7 +12,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados Brasilero de 22 anos
 
 - **🔭 Atualmente:** Trabalhando como Analista de Dados FP&A Júnior na Nutrien
 - **🌱 Estou aprendendo:** Python, SQL e novas técnicas de análise de dados
-- **📫 Como me encontrar:** [Seu e-mail ou link para LinkedIn]
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -20,9 +19,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados Brasilero de 22 anos
 - **Ferramentas de Visualização:** Matplotlib, Seaborn, Tableau, Power BI
 - **Outras Tecnologias:** Git, GitHub, Excel
 
-## 🔗 Links Úteis
+## 🔗 Contact me
 
-- [Meu LinkedIn](link-para-seu-linkedin)
+- [Meu LinkedIn](https://www.linkedin.com/in/vinicios-reis-247b87183/)
 - [Meu Portfólio](link-para-seu-portfolio)
 
 Sinta-se à vontade para explorar e me contactar se você tiver alguma pergunta ou oportunidade de colaboração!
