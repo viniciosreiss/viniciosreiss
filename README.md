@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista de Dados Brasilero de 22 anos
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, VBA, DAX e M
+- **Linguagens:** SQL, Python, VBA, DAX e M
 - **Ferramentas de Visualização:** Matplotlib, Seaborn, Tableau, Power BI
 - **Outras Tecnologias:** Git, GitHub, Scrum, Jira
 
