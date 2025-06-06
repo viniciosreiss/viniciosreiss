@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vinicios</h1>
-<h3 align="center">A passionate Data Analistycs from Brazil</h3>
+<h1 align="center">Olá 👋, Eu sou o Vinicios</h1>
+<h3 align="center">Um criativo Analista de Dados Brasileiro</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo!:</h3>
 <p align="left">
 </p>
 
